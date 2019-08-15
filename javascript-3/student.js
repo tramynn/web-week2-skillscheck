@@ -11,7 +11,7 @@ let groceries = ['water', 'gummy bears', 'hot cheetos'];
 //Create a variable called 'yourName' that is equal to your name as a string
 
 // Code Here
-let yourName = 'Tramy Ngoc Nguyen';
+let yourName = "Tramy's";
 
 //////////////////STEP 3////////////////////
 //Create a function called 'setGroceryListTitle' that takes in one parameter called x. 
